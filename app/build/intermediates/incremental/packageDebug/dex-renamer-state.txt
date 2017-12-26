@@ -1,0 +1,7 @@
+#Tue Dec 26 15:41:08 GMT+08:00 2017
+base.0=D\:\\demos\\Wallpaper\\SlideZoomViewDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f2551b708e4a0bb189dc825bf5dc92df16b9d12c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\demos\\Wallpaper\\SlideZoomViewDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5f9c4f97908e40d95c06917c5c0e40d26c537e9f\\classes.dex
+base.1=D\:\\demos\\Wallpaper\\SlideZoomViewDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5f9c4f97908e40d95c06917c5c0e40d26c537e9f
+file.0=D\:\\demos\\Wallpaper\\SlideZoomViewDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f2551b708e4a0bb189dc825bf5dc92df16b9d12c\\classes.dex
